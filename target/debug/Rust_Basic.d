@@ -1,0 +1,1 @@
+D:\RUST\Rust_Basic\target\debug\Rust_Basic.exe: D:\RUST\Rust_Basic\src\data_type\mod.rs D:\RUST\Rust_Basic\src\data_type\string\mod.rs D:\RUST\Rust_Basic\src\data_type\string\string.rs D:\RUST\Rust_Basic\src\main.rs

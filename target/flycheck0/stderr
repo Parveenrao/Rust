@@ -1,0 +1,10 @@
+   0.013457200s  INFO prepare_target{force=false package_id=Rust_Basic v0.1.0 (D:\RUST\Rust_Basic) target="Rust_Basic"}: cargo::core::compiler::fingerprint: stale: missing "D:\\RUST\\Rust_Basic\\src\\data_type\\string\\mod.rs"
+   0.025811600s  INFO prepare_target{force=false package_id=Rust_Basic v0.1.0 (D:\RUST\Rust_Basic) target="Rust_Basic"}: cargo::core::compiler::fingerprint: fingerprint dirty for Rust_Basic v0.1.0 (D:\RUST\Rust_Basic)/Check { test: false }/TargetInner { name: "Rust_Basic", doc: true, ..: with_path("D:\\RUST\\Rust_Basic\\src\\main.rs", Edition2024) }
+   0.025882700s  INFO prepare_target{force=false package_id=Rust_Basic v0.1.0 (D:\RUST\Rust_Basic) target="Rust_Basic"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(MissingFile { path: "D:\\RUST\\Rust_Basic\\src\\data_type\\string\\mod.rs" }))
+   0.026935200s  INFO prepare_target{force=false package_id=Rust_Basic v0.1.0 (D:\RUST\Rust_Basic) target="Rust_Basic"}: cargo::core::compiler::fingerprint: stale: missing "D:\\RUST\\Rust_Basic\\src\\data_type\\string\\mod.rs"
+   0.047183700s  INFO prepare_target{force=false package_id=Rust_Basic v0.1.0 (D:\RUST\Rust_Basic) target="Rust_Basic"}: cargo::core::compiler::fingerprint: fingerprint dirty for Rust_Basic v0.1.0 (D:\RUST\Rust_Basic)/Check { test: true }/TargetInner { name: "Rust_Basic", doc: true, ..: with_path("D:\\RUST\\Rust_Basic\\src\\main.rs", Edition2024) }
+   0.047234300s  INFO prepare_target{force=false package_id=Rust_Basic v0.1.0 (D:\RUST\Rust_Basic) target="Rust_Basic"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(MissingFile { path: "D:\\RUST\\Rust_Basic\\src\\data_type\\string\\mod.rs" }))
+    Checking Rust_Basic v0.1.0 (D:\RUST\Rust_Basic)
+error: could not compile `Rust_Basic` (bin "Rust_Basic" test) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `Rust_Basic` (bin "Rust_Basic") due to 1 previous error
